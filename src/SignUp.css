@@ -1,0 +1,10 @@
+.signup-style{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+a{
+  color: rgba(222, 70, 159, 0.945)
+  
+}
